@@ -19,6 +19,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=lumymx&show_icons=true&include_all_commits=true&show=reviews%2Cdiscussions_answered&rank_icon=percentile">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?theme=midnight-purple&username=lumymx&layout=compact">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumymx&layout=compact">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?theme=midnight-purple&username=lumymx&layout=compact&langs_count=12">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumymx&layout=compact&langs_count=12">
 </picture>
