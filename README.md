@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?midnight-purple&username=lumymx&layout=compact">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?theme=midnight-purple&username=lumymx&layout=compact">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumymx&layout=compact">
 </picture>
